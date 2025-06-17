@@ -28,7 +28,7 @@ python Lux_Rescheduler.py
 
 ### 2. As a standalone executable (Windows)
 
-You can download the latest `.exe` release from the [Releases](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/releases](https://github.com/LuxCodingFivem/Lux_Rescheduler/releases/tag/v1.0.0) section of this repository.
+You can download the latest `.exe` release from the [Releases](https://github.com/LuxCodingFivem/Lux_Rescheduler/releases/tag/v1.0.0) section of this repository.
 Just download and run — no installation or Python setup required.
 
 > The app stores your CalDAV credentials encrypted using Windows DPAPI in a local `settings.json` file.
